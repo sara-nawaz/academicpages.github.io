@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
-meta name:"google-site-verification" content="Jy05SedUhz8zXi4gXXgGV_PC_PZh_xNqKwDk5QhL_EQ" />
+meta_name: "google-site-verification" content="Jy05SedUhz8zXi4gXXgGV_PC_PZh_xNqKwDk5QhL_EQ" />
 
 ---
 Welcome! I recently completed my PhD at the [Institute for Resources, Environment and Sustainability](https://www.ires.ubc.ca) at the University of British Columbia, and will be starting Fall 2021 as a Postdoctoral Researcher at the [Institute for Science, Innovation and Society](https://www.insis.ox.ac.uk) at the University of Oxford, as well as at the [Pacific Institute for Climate Solutions](https://pics.uvic.ca). 
