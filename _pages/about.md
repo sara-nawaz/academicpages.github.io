@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a Postdoctoral Researcher at the [Institute for Science, Innovation and Society](https://www.insis.ox.ac.uk) at the University of Oxford; I am also affiliated with the University of British Columbia and contribute to a project at the [Pacific Institute for Climate Solutions](https://pics.uvic.ca). I completed my PhD at the [Institute for Resources, Environment and Sustainability](https://www.ires.ubc.ca) at the University of British Columbia in August 2021.
+Welcome! I am a Postdoctoral Researcher at the [Institute for Science, Innovation and Society](https://www.insis.ox.ac.uk) at the University of Oxford; I am also affiliated with the University of British Columbia, where I contribute to a project at the [Pacific Institute for Climate Solutions](https://pics.uvic.ca). I completed my PhD at the [Institute for Resources, Environment and Sustainability](https://www.ires.ubc.ca) at the University of British Columbia in August 2021.
 
 I am interested in how to navigate the wide-ranging social, political, and ethical dilemmas that arise with the development of new climate and environmental technologies. My postdoctoral work examines the implications of negative emissions technologies (NETs) in marine spaces, with focus on two pilot projects around marine NETs: [OceanNETs](https://www.oceannets.eu/) and [Solid Carbon](https://pics.uvic.ca/projects/solid-carbon-negative-emissions-technology-feasibility-study). My PhD research focused on gene editing and syntehtic biology in agriculture. I draw upon a mix of quantitative and qualitative approaches, ranging from surveys to ethnographic methods.
 
