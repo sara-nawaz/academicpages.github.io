@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /files/Sara Nawaz.pdf
     
-  - title: "Thesis summary"
-    url: /files/Nawaz thesis summary.pdf
+  #- title: "Thesis summary"
+    #url: /files/Nawaz thesis summary.pdf
     
   #- title: "Guide"
    # url: /markdown/
