@@ -13,4 +13,4 @@ My work is motivated by a fascination with both the 'natural' world and the huma
 
 I conducted postdoctoral work at the University of Oxford and completed my PhD at the University of British Columbia, where my research focused on gene editing and synthetic biology in agriculture. You can read a summary of my PhD thesis research [here](https://sara-nawaz.github.io/files/Nawaz%20thesis%20summary.pdf). Before my PhD, I worked as a consultant at Environmental Resources Management and as a researcher at the World Resources Institute. I also hold an MPhil from Oxford University in Development Studies and a BA from Swarthmore College in economics. 
 
-I am a queer, second-generation Bengali and white person, and an avid rock climber. I currently live on unceded Skwxwú7mesh (Squamish) territory.
+I am queer, second-generation Bengali and white, and an avid rock climber. I currently live on unceded Skwxwú7mesh (Squamish) territory.
