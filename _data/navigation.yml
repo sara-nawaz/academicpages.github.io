@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=wHgD7fkAAAAJ&hl=en
     
-  - title: "In the news"
+  #- title: "In the news"
     #url: /talks/    
 
   #- title: "Teaching"
