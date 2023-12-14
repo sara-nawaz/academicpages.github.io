@@ -15,4 +15,4 @@ My research sits at the intersection of science and technology studies, perceive
 
 I conducted postdoctoral work at the University of Oxford and completed my PhD at the University of British Columbia, where my research was on social dimensions of novel biotechnology (primarily gene editing) in agriculture. You can read a summary of my PhD thesis research [here](https://sara-nawaz.github.io/files/Nawaz%20thesis%20summary.pdf). Before my PhD, I worked as a consultant at Environmental Resources Management and as a researcher at the World Resources Institute. I also have an MPhil from the University of Oxford in Development Studies and a BA from Swarthmore College in economics. 
 
-For some other information on me: I'm a queer, second-generation Bengali-American of mixed ancestry. I'm also an avid rock climber. I live on unceded Skwxwú7mesh (Squamish) and Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) territory.
+For some other information on me: I'm a queer, second-generation Bengali-American of mixed ancestry. I'm also an avid rock climber. I live on unceded Sḵwx̱wú7mesh (Squamish) and Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) territory.
